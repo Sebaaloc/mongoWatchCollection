@@ -1,0 +1,2 @@
+exports.NOT_FOUND = "NOT_FOUND";
+exports.BAD_REQUEST = "BAD_REQUEST";
